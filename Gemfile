@@ -5,6 +5,8 @@ ruby '2.6.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
+#Use ActiveModel has_secure_password
+gem 'bcrypt'
 # Use sqlite3 as the database for Active Record
 group :development, :test do
   gem 'sqlite3' , '~> 1.3.13'
