@@ -1,24 +1,10 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is brought to you by the Odin Project, with the purpose of practicing Active Record concepts in Ruby on Rails.
 
-Things you may want to cover:
+## Contributors
 
-* Ruby version
+* Maya Douglas - [@mcrd25](https://github.com/mcrd25)
+* Adriaan Beiertz - [@adriaanbd](https://github.com/adriaanbd)
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
